@@ -1,7 +1,15 @@
 - 👋 Hi, I’m Juliya
 - 👀 I am looking for specialists who are ideally suited to do a specific job.
-- 🌱 She graduated from the Yandex Practicum course in the field of "IT recruiter". My goal is to help companies and candidates find each other.
-- 📫 You can contact me at: juliya.sin2@gmail.ru .
+- 🌱 IT Recruiter at SayHire
+I recruit IT specialists for key tech roles.
+Main vacancies I work with:
+1C Developer;
+DevOps Engineer;
+PHP Developer;
+Product Manager;
+Senior Python Developer;
+Senior C Programmer.
+- 📫 You can contact:(https://t.me/juliya_sin)
 - ⚡ I really like my profession, I am enthusiastic about it.
 
 <!---
