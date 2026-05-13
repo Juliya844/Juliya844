@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juliya
 - 👀 I am looking for specialists who are ideally suited to do a specific job.
-- 🌱 IT Recruiter at SayHire
+- 🌱 IT Recruiter
 I recruit IT specialists for key tech roles.
 Main vacancies I work with:
 1C Developer;
